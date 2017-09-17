@@ -1,0 +1,40 @@
+body {
+	background-color: white;
+
+}
+#container{
+	width: 1080px;
+	align-content: : center;
+	background-color: white;
+	border-width: 3px;
+	border-style: solid;
+	border-color: #DDDDDD;
+}
+#top-bar{
+	height: 154px;
+	background-image: url("Top-Bar.png");
+}
+#follower-count{
+	height: 355px;
+	background-image: url("Follower-Count.png");
+}
+#profile-picture{
+	height: 255px;
+}
+#photo-bar{
+	height: 140px;
+	background-image: url("Photo-Bar.png");
+}
+.ig-image {
+    float: left;
+    width: 25%;
+    height: 200px;
+    margin: 10px;
+    border: 3px solid #73AD21;  
+}
+
+
+#bottom-bar{
+	height: 135px;
+	background-image: url("Bottom-Bar.png");
+}
