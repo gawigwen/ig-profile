@@ -20,6 +20,9 @@ body {
 }
 #profile-picture{
 	height: 255px;
+	width: 255px;
+	margin-top: 0in;
+	margin-left: 1in;
 }
 #photo-bar{
 	height: 140px;
